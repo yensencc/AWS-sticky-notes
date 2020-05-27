@@ -1,0 +1,40 @@
+AWS Technical Essentials
+
+
+2006 AWS started
+
+Foundational services
+
+Security measures
+
+Management tools
+
+
+AWS Core infrastructure and Services
+
+Amazon Web Services : Security Groups, NACLs, AWS IAM
+Network Layer: ELBM, VPC
+Servers: AMI, Amazon EC2 Instances
+Storage and Databases: Amazon EBS, Amazon EFS, Amazon S3, Amazon RDS
+
+
+
+AWS Foundation Services
+
+Compute: Amazon EC2, AWS Lambda, Amazon EC2 Container Service, Elastic Load Balancing, AWS Elastic Beanstalk, Auto Scaling
+Network: Amazon VPC, Amazon Route 53, AWS Direct Connect
+Storage: Amazon S3, Amazon CloudFront, Amazon Glacier, Amazon Elastic File System, AWS Storage Gateway, AWS ImportExport Snowball
+Security & Identity: AWS Identity and Access Management, AWS KMS, AWS Directory Service, AWS Cloud HSM, AWS WAF
+Applications: Amazon WorkDocs, Amazon WorkSpaces, Amazon Workmail
+
+
+AWS Platform Services
+
+Databases: Amazon RDS, Amazon DynamoDB, Amazon ElasticCache, Amazon REdshift, AWS Database Migration Service
+Analytics: Amazon EMR, AWS Data Pipeline, Amazon Elasticsearch Service, Amazon Machine Learning, Amazon Kinesis
+App Services: Amazon SES, Amazon AppStream, Amazon SWF, Amazon Elastic Transcoder, Amazon CloudSearch, Amazon SQS, Amazon API Gateway
+Management Tools: AWS CloudFormation, AWS Config, AWS CloudTrail, AWS Service Catalog, AWS OpsWork, Amazon CloudWatch, Trusted Advisor, AWS Certificate Manager
+
+Developer Tools: AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline
+Mobile Services: Amazon Cognito, AWS Device Farm, Amazon SNS, Amazon Mobile Analytics, Mobile Hub
+Internet of Things: AWS IoT
