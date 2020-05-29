@@ -38,3 +38,21 @@ Management Tools: AWS CloudFormation, AWS Config, AWS CloudTrail, AWS Service Ca
 Developer Tools: AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline
 Mobile Services: Amazon Cognito, AWS Device Farm, Amazon SNS, Amazon Mobile Analytics, Mobile Hub
 Internet of Things: AWS IoT
+
+
+
+
+Amazon EC2 Purchasing options
+
+On-demand instances
+Reserved //
+Schedule //
+Spot    //
+Dedicated Hosts
+
+
+
+Pending
+
+Please try play around with custom ec2 instances and work with different domains and configurations.
+
