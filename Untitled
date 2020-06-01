@@ -40,7 +40,7 @@ Mobile Services: Amazon Cognito, AWS Device Farm, Amazon SNS, Amazon Mobile Anal
 Internet of Things: AWS IoT
 
 
-
+########################################################
 
 Amazon EC2 Purchasing options
 
@@ -56,3 +56,37 @@ Pending
 
 Please try play around with custom ec2 instances and work with different domains and configurations.
 
+
+#############################################################
+Amazon ElastiC Block Storage (EBS)
+
+EBS Magnetic
+EBS General Purpose
+Provisioned IOPS
+
+EBS Use Cases
+
+Operating System
+Databases
+Enterprise Applications
+Business Continuity
+Applications
+
+Amazon EC2 Instance Storage
+
+Local
+Availability
+Storage optimized instanes
+No persistence
+All data is automatically deleted when an EC2 instace stops, fails or is terminated
+###################################################################################
+
+Amazon VPC or Amazon Virtual Private Cloud (VPC)
+
+VPC infrastructure
+Public Subnet
+Private Subnet
+Web server
+NAT server
+Security Groups
+Avialability Zone
