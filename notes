@@ -197,6 +197,54 @@ Are stored in Amazon S3
 
 
 
+RDS DB instances
+
+DB instances are the basic building blocks of amaozn RDS.
+
+They are an isolated database enviroment in the cloud.
+They can contain multiple user-created databases
+
+
+
+
+
+DB Parameter & Option Groups
+Db Parameter Groups
+DB Option Groups
+
+
+Amazon RDS Best Practices
+
+Monitor your memory , CPU, and storage usage.
+Use Multi-AZ
+Enable automatic backups
+Set the backup window to oocur during the daily lwo in Write IOPS.
+
+
+To increase the I/O capacity of DB instance
+Migrate to DB instance class with I/O capacity
+Convert from stardard storage to provisioned IOPS
+Provision additional throghput capacity if using provisioned IOPS storage.
+Set a TTL of less than 30 second inf your clien application is caching the DNS data of your DB instances
+
+
+
+// Amazon DynamoDB == NOSQL database
+
+is a NoSql database service
+Store any amount of data with no limits
+Fast, predictalbe performance using SSDs
+Easily provision and change the request capacity needed for each table
+Fully managed Nosql amazon service
+
+In amazon DynamoDB a table is a collection of items, each item is a collection of attributes, each
+attribute is a name-value pair and can contain a single value , a json document or a set of values.
+
+
+DynamoDB provides tow kinds of primary keys
+first is a Partition key: a simple primary key with a sinble one value
+Second is a composive key:
+
 
 
 
